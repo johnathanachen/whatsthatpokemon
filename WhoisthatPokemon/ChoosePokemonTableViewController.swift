@@ -9,6 +9,9 @@
 
 import UIKit
 
+protocol selectPokemon {
+    <#requirements#>
+}
 class ChoosePokemonTableViewController: UITableViewController {
 
     var pokemons: [Pokemon] = []
